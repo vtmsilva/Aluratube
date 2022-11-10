@@ -1,0 +1,52 @@
+{
+    "name": "Victor Marques (Dev)",
+    "job": "Desenvolvedor de Software Jr",
+    "github": "vtmsilva",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "Counter-Strike: Global Offensive Trailer",
+                "url": "https://www.youtube.com/watch?v=edYCtaNueQY",
+                "thumb": "https://img.youtube.com/vi/edYCtaNueQY/hqdefault.jpg"
+            },
+            {
+                "title": "Counter-Strike: Global Offensive Trailer",
+                "url": "https://www.youtube.com/watch?v=edYCtaNueQY",
+                "thumb": "https://img.youtube.com/vi/edYCtaNueQY/hqdefault.jpg"
+            },
+            {
+                "title": "Counter-Strike: Global Offensive Trailer",
+                "url": "https://www.youtube.com/watch?v=edYCtaNueQY",
+                "thumb": "https://img.youtube.com/vi/edYCtaNueQY/hqdefault.jpg"
+            },
+
+            {
+                "title": "Counter-Strike: Global Offensive Trailer",
+                "url": "https://www.youtube.com/watch?v=edYCtaNueQY",
+                "thumb": "https://img.youtube.com/vi/edYCtaNueQY/hqdefault.jpg"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "Aula 01 - Imersão React",
+                "url": "https://youtu.be/153xkza4NHQ",
+                "thumb": "https://img.youtube.com/vi/153xkza4NHQ/hqdefault.jpg"
+            },
+            {
+                "title": "Aula 01 - Imersão React",
+                "url": "https://youtu.be/153xkza4NHQ",
+                "thumb": "https://img.youtube.com/vi/153xkza4NHQ/hqdefault.jpg"
+            },
+            {
+                "title": "Aula 01 - Imersão React",
+                "url": "https://youtu.be/153xkza4NHQ",
+                "thumb": "https://img.youtube.com/vi/153xkza4NHQ/hqdefault.jpg"
+            },
+            {
+                "title": "Aula 01 - Imersão React",
+                "url": "https://youtu.be/153xkza4NHQ",
+                "thumb": "https://img.youtube.com/vi/153xkza4NHQ/hqdefault.jpg"
+            }
+        ]
+    }
+}
